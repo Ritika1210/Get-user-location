@@ -1,4 +1,4 @@
-# 📍 Get User Location & Weather App
+# 📍 Get User Current Location & Weather App
 
 A simple JavaScript-based web application that fetches the **user’s current location** using the browser’s Geolocation API and displays **real-time weather information** based on latitude and longitude.
 
@@ -7,8 +7,7 @@ This project demonstrates the use of **browser permissions**, **async/await**, a
 ---
 
 ## 🚀 Live Demo
-🔗 https://your-username.github.io/your-repo-name/
-
+🔗https://ritika1210.github.io/Get-user-location/
 ---
 
 ## 🛠️ Tech Stack
@@ -50,3 +49,4 @@ This project uses **WeatherAPI**.
 Replace the empty API key in `project2.js`:
 ```js
 key=YOUR_API_KEY_HERE
+
